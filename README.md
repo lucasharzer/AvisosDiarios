@@ -55,8 +55,9 @@ docker stop <container ID>
 # Resultados
 - Primeira execução: Ao iniciar o programa pela primeira vez será necessário escanear o QRCode do venom-bot para acessar o Whatsapp. Após a conexão bem sucedida, será criada a pasta tokens na raiz do projeto armazenando a sessão do Whatsapp.
 <span>
-    <img src="https://github.com/lucasharzer/AvisosDiarios/assets/85804895/d80e4b67-9893-43fa-b9ea-cf396a9cbf5e" heigth=100 width=200>
+    <img src="https://github.com/lucasharzer/AvisosDiarios/assets/85804895/d80e4b67-9893-43fa-b9ea-cf396a9cbf5e" heigth=250 width=300>
 </span>
+
 - Execução Local
 <span>
     <img src="https://github.com/lucasharzer/AvisosDiarios/assets/85804895/bdad6f01-3263-4929-bdb8-7fc7d34c23e7">
