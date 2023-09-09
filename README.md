@@ -52,3 +52,12 @@ docker start <container ID>
 docker stop <container ID>
 ```
 
+# Resultados
+- Execução Local
+<span>
+    <img src="https://github.com/lucasharzer/AvisosDiarios/assets/85804895/bdad6f01-3263-4929-bdb8-7fc7d34c23e7">
+</span>
+- Execução no Docker
+<span>
+    <img src="https://github.com/lucasharzer/AvisosDiarios/assets/85804895/c6b710c3-7625-48d8-9bec-edea942974e9">
+</span>
